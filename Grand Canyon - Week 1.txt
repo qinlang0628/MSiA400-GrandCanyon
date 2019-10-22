@@ -1,0 +1,32 @@
+Joshua Kornblatt, Duyun (Ellie) Tan, Aria Wang, Lang Qin
+MSiA 400
+
+This week we took the preliminary steps in getting organized for our project. We looked through the data sets that Greenwich provided to identify what information we had already as well as what we needed to complete the project. We came up with primary questions that we’ll need to answer before starting our project:
+
+•	What are the datasets we need?
+•	What can be deliverables?
+•	What is our timeline?
+•	Who are our stakeholders?
+•	What is our project scope?
+•	How can we split work and collaborate with other groups (potentially)?
+
+As we do not have any of the data on financial metrics (EBITA, labor cost, etc.) or mergers and acquisitions, our next step is determining how to locate this data.
+
+Timeline:
+
+Date	Target
+14 Oct - 20 Oct	Gather and clean data; 
+Work through question 1 (correlation between ads and financial metrics)
+21 Oct - 27 Oct	Finish question 1
+28 Oct - 3 Nov	Work through question 2(Predictive models for financial metrics relying on ads and other public data sets)
+4 Nov - 10 Nov	Finish question 2
+11 Nov - 17 Nov	Work through question 3 (Explore M&A and job ads )
+18 Nov - 24 Nov	Finish question 3 
+25 Nov - 1 Dec	Put the work together and finish the delievarable
+
+Datasets we need:
+revenue, expenses, EBITA, GAAP, labor cost, M&A data
+
+Need to communicate with the company:
+What can be deliverables? 
+Additional Datasets on financial metrics?
