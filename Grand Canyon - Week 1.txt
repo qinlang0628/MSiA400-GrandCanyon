@@ -28,5 +28,5 @@ Datasets we need:
 revenue, expenses, EBITA, GAAP, labor cost, M&A data
 
 Need to communicate with the company:
-What can be deliverables? 
-Additional Datasets on financial metrics?
+What can be deliverables? I THINK THIS IS SPELLED OUT ON CANVAS UNDER TASK ASSIGNMENTS. 
+Additional Datasets on financial metrics? YOU SHOULD ASK THEM ABOUT THEIR KNOWLEDGE ON SUCH SETS. 
