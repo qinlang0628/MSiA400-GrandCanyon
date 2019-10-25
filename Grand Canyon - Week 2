@@ -1,4 +1,4 @@
 Joshua Kornblatt, Duyun (Ellie) Tan, Aria Wang, Lang Qin
-MSiA 400
+MSiA 400 
 
 This week we gathered the corresponding quarterly financial data for each company around the job posting time. We found a free financial modeling prep API online https://financialmodelingprep.com/developer/docs/#Company-Financial-Statements, where we got the financial statement information for all the companies in our dataset and extracted EBITDA, revenue and cost of revenue. We merged the financial data with the master and timelog datasets, and prepared it for the upcoming correlation analysis next week. We also brainstormed the metrics for the correlation analysis: a) Number of job posts per quarter vs. average quarterly financial metrics; b) Average job post duration vs. quarterly financial metrics.
