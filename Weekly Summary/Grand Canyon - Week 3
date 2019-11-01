@@ -1,9 +1,17 @@
 Joshua Kornblatt, Duyun (Ellie) Tan, Aria Wang, Lang Qin
 MSiA 400
 
-This week we constructed separate functions in python to 1). Get data from AWS server 2). Web scrape company quarterly financial metrics from their income statements online 3). Clean financial metrics dataset: add time indicator, stack the financial data from every quarter into a whole dataset, deal with missing values, and extract the useful metric columns. 4). Clean master job posting dataset: add time indicator, calculate total job postings each quarter, deal with missing values. We re-merged the full financial data with the full job-posting data, on which we then performed correlation analysis on the financial metrics (revenue, expenses, EBITDA) with the quarterly total job postings. Our findings are summarized as follows: 
+This week we constructed separate functions in python to:
+1) Get data from AWS server 
+2) Web scrape company quarterly financial metrics from their income statements online 
+3) Clean financial metrics dataset: add time indicator, stack the financial data from every quarter into a whole dataset, 
+   deal with missing values, and extract the useful metric columns. 
+4) Clean master job posting dataset: add time indicator, calculate total job postings each quarter, deal with missing values. 
+   We re-merged the full financial data with the full job-posting data, on which we then performed correlation analysis on the 
+   financial metrics (revenue, expenses, EBITDA) with the quarterly total job postings. 
 
-The correlation between revenue and the number of posts is around 0.247, which is significant according to Pearson’s test.
-The correlation between expenses and the number of posts is around 0.356, which is significant according to Pearson’s test.
-The correlation between EBITDA and the number of posts is around 0.286, which is significant according to Pearson’s test.
-The correlations among revenue, expenses and EBITA are very high, all being above 0.7.
+Our findings are summarized as follows: 
+1) The correlation between revenue and the number of posts is around 0.247, which is significant according to Pearson’s test.
+2) The correlation between expenses and the number of posts is around 0.356, which is significant according to Pearson’s test.
+3) The correlation between EBITDA and the number of posts is around 0.286, which is significant according to Pearson’s test.
+4) The correlations among revenue, expenses and EBITA are very high, all being above 0.7.
